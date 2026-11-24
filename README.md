@@ -80,7 +80,3 @@ As imagens abaixo apresentam as principais telas da planilha. Os valores preench
 - Confira os dados com os informes e documentos oficiais antes de utilizá-los na declaração.
 - O arquivo disponibilizado contém valores de demonstração. Substitua-os pelos dados corretos antes do uso e revise o conteúdo antes de publicar sua própria versão.
 - Não publique CPF, endereço, telefone, saldos bancários, holerites ou outros documentos reais em repositórios públicos.
-
-## Desafio DIO
-
-Projeto desenvolvido como prática do desafio da **Digital Innovation One (DIO)**, com foco na construção de uma ferramenta no Excel e na documentação do projeto por meio do GitHub.
